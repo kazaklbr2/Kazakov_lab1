@@ -1,0 +1,48 @@
+* {
+    font-family: Verdana;
+}
+
+header {
+    background-color: bisque;
+}
+
+.container {
+    margin: 0px 40px;
+}
+
+.top  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_logo {
+    height: 100px;
+    width: auto;
+}
+
+nav, ul {
+    display: inline;
+}
+
+li {
+    display: inline;
+    padding-left: 10px;
+}
+
+.menu {
+    font-family: Arial;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.lstu-info {
+    font-size: large;
+    font-weight: 400;
+}
+
+.info-text {
+    font-size: medium;
+    font-weight: 200;
+    border: thin cyan;
+}
